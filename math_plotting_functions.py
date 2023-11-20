@@ -1,4 +1,3 @@
-#%matplotlib inline
 import numpy as np
 import matplotlib.pyplot as plt
 from math_format_functions import math_func_return
